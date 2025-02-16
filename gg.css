@@ -1,0 +1,79 @@
+.div1 {
+  background-color: white;
+  width: 370px;
+  font-weight: 100;
+  padding: 20px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  background-color: hsl(218, 22%, 67%);
+  flex-direction: column;
+  align-items: center;
+}
+.h1 {
+  color: hsl(179, 62%, 43%);
+  margin-left: 20px;
+}
+.h4 {
+  color: hsl(71, 73%, 54%);
+  margin-left: 20px;
+}
+.p1 {
+  margin-left: 20px;
+  margin-right: 20px;
+  color: hsl(218, 22%, 67%);
+  line-height: 30px;
+}
+.div2 {
+  background-color: hsl(179, 62%, 43%);
+  width: 370px;
+  font-weight: 100;
+  padding: 20px;
+}
+.h6 {
+  margin-left: 20px;
+  color: white;
+}
+.h7 {
+  color: white;
+  margin-left: 20px;
+}
+.sp1 {
+  color: hsla(203, 44%, 93%, 0.671);
+  font-size: medium;
+  font-weight: 100;
+}
+.but1 {
+  width: 300px;
+  margin: auto;
+  display: block;
+  height: 40px;
+  background-color: hsl(71, 73%, 54%);
+  border: 0;
+  font-size: medium;
+  font-weight: 400;
+  border-radius: 5px;
+  color: white;
+}
+.p8 {
+  color: white;
+  margin-left: 20px;
+}
+.div3 {
+  background-color: hsl(179, 38%, 48%);
+  width: 370px;
+  font-weight: 100;
+  padding: 20px;
+}
+.h8 {
+  margin-left: 20px;
+  color: white;
+}
+.p9 {
+  color: white;
+  margin-left: 20px;
+  margin-right: 50px;
+  width: 200px;
+  line-height: 25px;
+}
